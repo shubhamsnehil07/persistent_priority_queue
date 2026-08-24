@@ -61,8 +61,8 @@ The implementation uses Python's standard library for the queue itself.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/shubhamsnehil07/persistent_priority_queue.git
+cd persistent_priority_queue
 ```
 
 Install the test dependency:
