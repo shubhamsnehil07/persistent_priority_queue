@@ -723,7 +723,6 @@ If the application exits and later starts again, unprocessed jobs remain availab
 ```
 The key idea is to keep normal operations in memory while persisting every mutation through the WAL and periodically replacing the accumulated history with a compact snapshot.
 
-```
 
 ## Author
 
